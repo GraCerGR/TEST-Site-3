@@ -1,0 +1,7 @@
+{
+  "test_dish_page_has_data": "check",
+  "test_dishes_cards": "fail",
+  "test_filters_and_sorting": "fail",
+  "test_no_rate_button": "check",
+  "test_phone_input_mask": "fail"
+}
